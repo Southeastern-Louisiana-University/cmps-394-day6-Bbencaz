@@ -1,0 +1,4 @@
+install fastapi
+install uvicorn
+install sqlalchemy
+install pydantic
